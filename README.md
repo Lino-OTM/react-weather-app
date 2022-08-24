@@ -1,11 +1,12 @@
 # Weather App
 
 ## Screenshot
-
+Mobile:
 ![](/screenshot1.png)
+Desktop:
 ![](/screenshot2.png)
 
-Link: https://taupe-sundae-15acad.netlify.app/
+Link: https://nimble-manatee-072d20.netlify.app/
 
 ### Built with:
 
